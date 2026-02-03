@@ -71,8 +71,8 @@ function showDedicationText() { //seguidores
   let text = getURLParam('text');
   if (!text) {
     text = `Para el amor de mi vida:\n
-    Amorcito de mi vida quien diria que ya estamos por cumplir un año juntos la verdad pense que talvez no ibamos a llegar ni a medio año pero bueno al parecer nuestro amor si es verdad porque tu y yo sabemos en que situación realmente nos sentimos mal hasta el punto incluso de llorar pero aun asi no nos dejamos a un lado siempre supimos como resolver la incomodidad que sentiamos y realmente te lo agradezco por nunca dejarlo como una segunda opción.\n
-    Nose si recuerdes pero creo que este fue uno de los primeros detalles que te hice y lo muy nervioso que me sentia al momento de dartelo pero me gusto mucho esta parte de la carta que te escribi y lo dejare ahi tal y como esta porque solo tu puedes hacerlo:\n
+    Amorcito de mi vida quien diria que ya estamos por cumplir un año juntos, la verdad pense que talvez no ibamos a llegar ni a medio año pero bueno al parecer nuestro amor si es verdadero ya que solo tu y yo sabemos en que situación realmente nos sentimos mal hasta el punto incluso de llorar pero aun asi no nos dejamos a un lado siempre supimos como resolver la incomodidad que sentiamos y realmente te lo agradezco por nunca dejarlo como una segunda opción.\n
+    Nose si recuerdes pero creo que este fue uno de los primeros detalles que te hice y lo muy nervioso que me sentia al momento de dartelo pero me gusto mucho esta parte de la carta que te escribi en ese momento y lo dejare ahi tal y como esta porque solo tu puedes hacerlo:\n
     -- Solo tú puedes robarme mi tiempo, mis miradas, mis pensamientos y mi corazón, pero siendo sincero, mi corazón ya es más tuyo que mío. --\n
     No te imaginas cuánto me haces feliz y lo mucho que TE AMO. Gracias por llegar a mi vida.`;
   } else {
